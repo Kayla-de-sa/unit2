@@ -1,0 +1,42 @@
+body {
+    padding:0;
+    margin:0;
+    background:#ffffff;
+}
+
+img {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+}
+
+.airpods {
+    width:1500px;
+    height:auto;
+}
+
+.music {
+    width:1500px;
+    height:auto;
+}
+
+.concert {
+    width:1500px;
+    height:auto;
+}
+
+.dopamine {
+    width:1500px;
+    height:auto;
+}
+
+.brain {
+    width:1500px;
+    height:auto;
+}
+
+.central-nervous-system {
+    width:1500px;
+    height:auto;
+}
